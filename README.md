@@ -1,7 +1,4 @@
----
-title: "✍️ Development Study"
----
-
+## ✍️ Development Study
 A collection of my **learning notes**
 from my data analytics bootcamp and self-study journey.
 
