@@ -3,7 +3,7 @@ layout: post
 title: "What Really Matters in Hypothesis Testing: Errors and p-values"
 date: 2025-11-09 +0900
 ---
-# 🎯 Type I & Type II Errors and the Meaning of p-value
+# Type I & Type II Errors and the Meaning of p-value ✏️
 
 Understanding statistical hypothesis testing is essential in data analysis.  
 When we test a claim using sample data, we don’t get absolute certainty. We make a **decision based on probability**.  
@@ -31,14 +31,14 @@ This means two kinds of mistakes can occur.
 
 | Reality | Decision | Outcome |
 |----------|-----------|----------|
-| H₀ is true | Fail to reject H₀ | ✅ Correct |
-| H₀ is true | Reject H₀ | ❌ **Type I Error (False Positive)** |
-| H₀ is false | Reject H₀ | ✅ Correct |
-| H₀ is false | Fail to reject H₀ | ❌ **Type II Error (False Negative)** |
+| H₀ is true | Fail to reject H₀ | Correct |
+| H₀ is true | Reject H₀ | **Type I Error (False Positive)** |
+| H₀ is false | Reject H₀ | Correct |
+| H₀ is false | Fail to reject H₀ | **Type II Error (False Negative)** |
 
 ---
 
-### 🔹 Type I Error (α)
+### Type I Error (α)
 
 - **Definition:** Rejecting the null hypothesis even though it’s actually true.  
 - **Interpretation:** You conclude “there is an effect” when none exists.  
@@ -48,7 +48,7 @@ This means two kinds of mistakes can occur.
 
 ---
 
-### 🔹 Type II Error (β)
+### Type II Error (β)
 
 - **Definition:** Failing to reject the null hypothesis when it’s actually false.  
 - **Interpretation:** You miss a real effect.  
