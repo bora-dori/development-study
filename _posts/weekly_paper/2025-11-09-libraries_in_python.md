@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Libraries in Python"
+date: 2025-11-09 +0900
+---
 # Libraries in Python 📕
 
 Data analysis in Python usually starts with three fundamental libraries: **NumPy**, **Pandas**, and **Matplotlib**.  
