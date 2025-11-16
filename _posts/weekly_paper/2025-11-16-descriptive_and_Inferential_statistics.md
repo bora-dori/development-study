@@ -17,9 +17,9 @@ This post explains the two major branches of statistics, **Descriptive Statistic
 
 Statistics exists to help us answer three big questions:
 
-### 1) **What does the data look like?** → *Descriptive Statistics*  
-### 2) **How do different variables relate?** → *Descriptive + Exploratory*  
-### 3) **What can we predict beyond the data we collected?** → *Inferential Statistics*
+1) **What does the data look like?** → *Descriptive Statistics*  
+2) **How do different variables relate?** → *Descriptive + Exploratory*  
+3) **What can we predict beyond the data we collected?** → *Inferential Statistics*
 
 > **Statistics = A process of finding the “meaning” inside data.**
 
