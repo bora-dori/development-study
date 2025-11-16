@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding Descriptive & Inferential Statistics Easily"
+title: "Descriptive & Inferential Statistics"
 date: 2025-11-16 +0900
 ---
 # Understanding Descriptive & Inferential Statistics Easily 📊
