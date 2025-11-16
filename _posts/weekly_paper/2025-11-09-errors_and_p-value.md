@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Really Matters in Hypothesis Testing: Errors and p-values"
+title: "Type I/II Errors and p-values"
 date: 2025-11-09 +0900
 ---
 # Type I & Type II Errors and the Meaning of p-value ✏️
