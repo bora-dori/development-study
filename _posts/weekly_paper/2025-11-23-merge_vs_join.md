@@ -44,8 +44,8 @@ It is simpler than merge() but less flexible because it assumes that the index i
 
 ## Summary
 
-> Use merge() when you need control and clarity.  
-> Use join() when your data is already indexed properly and you want simplicity.
+Use merge() when you need control and clarity.
+Use join() when your data is already indexed properly and you want simplicity.
 
 | Situation | Best Method |
 |----------|-------------|
