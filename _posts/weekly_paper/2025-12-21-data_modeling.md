@@ -3,7 +3,7 @@ layout: post
 title: "Core Components of Data Modeling"
 date: 2025-12-21 +0900
 ---
-# Core Components of Data Modeling: Entity, Attribute, and Relationship
+# Entity, Attribute, and Relationship 🧩
 
 Logical data modeling describes **what data the system needs and how that data is logically related**, independent of any specific database technology.  
 At the heart of logical modeling are three core components: **Entity**, **Attribute**, and **Relationship**.
