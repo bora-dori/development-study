@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding Database Normalization"
-date: 2025-12-14 +0900
+date: 2025-12-21 +0900
 ---
 # What Is Database Normalization? 🗂️
 
